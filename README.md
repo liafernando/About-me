@@ -28,7 +28,7 @@ I am a Front-end Developer and UI/UX designer <img src="https://media.giphy.com/
 
 - ⚡️ In my free time, I am keen on developing my start-up, desiging, reading, photography, baking and traveling.
 
-- :mailbox:How to reach me: [![Linkedin Badge]https://www.linkedin.com/in/ameli-fernando-89b031253/
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-polina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ameli-fernando-89b031253/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
